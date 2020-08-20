@@ -5,12 +5,12 @@ i'm in the process of moving all my personal projects to [gitlab](https://gitlab
 - [x] `eskola.uk`
 - [ ] `eskola.uk-private`
 - [x] `essays`
-- [ ] `md2pdf`
+- [x] `md2pdf`
 - [ ] `private`
 - [ ] `LMPTHW`
 - [ ] `rs-find`
 - [ ] `fish-git`
-- [ ] `things-scripts`
+- [x] `things-scripts`
 - [ ] `node-coreutils`
 
 <!--
