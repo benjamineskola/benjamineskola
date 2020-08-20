@@ -1,4 +1,4 @@
-oh no why
+i'm in the process of moving all my personal projects to [gitlab](https://gitlab.com/benjamineskola), because github has made its priorities clear.
 
 <!--
 **benjamineskola/benjamineskola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
