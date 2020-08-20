@@ -1,10 +1,10 @@
 i'm in the process of moving all my personal projects to [gitlab](https://gitlab.com/benjamineskola), because github has made its priorities clear.
 
-- [ ] `booklogger`
-- [ ] `dotfiles`
-- [ ] `eskola.uk`
+- [x] `booklogger`
+- [x] `dotfiles`
+- [x] `eskola.uk`
 - [ ] `eskola.uk-private`
-- [ ] `essays`
+- [x] `essays`
 - [ ] `md2pdf`
 - [ ] `private`
 - [ ] `LMPTHW`
