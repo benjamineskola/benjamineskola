@@ -6,7 +6,7 @@ i'm in the process of moving all my personal projects to [gitlab](https://gitlab
 - [ ] `eskola.uk-private`
 - [x] `essays`
 - [x] `md2pdf`
-- [ ] `private`
+- [x] `private`
 - [ ] `LMPTHW`
 - [ ] `rs-find`
 - [ ] `fish-git`
